@@ -12,7 +12,7 @@ This project used for studying about Database System.
 WIP
 
 ## Member
-Nathaphop Sundarabhogin
-Thaweesak Saiwongse
-Natthawat Tungruethaipak
-Chawakorn Boonrin
+- Nathaphop Sundarabhogin
+- Thaweesak Saiwongse
+- Natthawat Tungruethaipak
+- Chawakorn Boonrin
