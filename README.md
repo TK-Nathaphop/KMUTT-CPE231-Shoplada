@@ -10,3 +10,9 @@ This project used for studying about Database System.
 
 ## How to use
 WIP
+
+## Member
+Nathaphop Sundarabhogin
+Thaweesak Saiwongse
+Natthawat Tungruethaipak
+Chawakorn Boonrin
