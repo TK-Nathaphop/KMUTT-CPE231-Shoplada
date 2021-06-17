@@ -1,4 +1,4 @@
-# Shoplada - Shop online
+# Shoplada - Online Shop
 ## Introduction
 Shoplada is a web-based web application for shopping online. The people can register, login, put product in cart, and using voucher.
 
